@@ -1,2 +1,2 @@
 My first readme
-Happy now
+Happy today
